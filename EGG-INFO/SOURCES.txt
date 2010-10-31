@@ -1,0 +1,11 @@
+setup.py
+CopyCompleted.egg-info/PKG-INFO
+CopyCompleted.egg-info/SOURCES.txt
+CopyCompleted.egg-info/dependency_links.txt
+CopyCompleted.egg-info/entry_points.txt
+CopyCompleted.egg-info/top_level.txt
+copycompleted/__init__.py
+copycompleted/common.py
+copycompleted/core.py
+copycompleted/gtkui.py
+copycompleted/webui.py

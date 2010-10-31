@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    CopyCompleted = copycompleted:CorePlugin
+    [deluge.plugin.gtkui]
+    CopyCompleted = copycompleted:GtkUIPlugin
+    [deluge.plugin.web]
+    CopyCompleted = copycompleted:WebUIPlugin
+    

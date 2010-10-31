@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Copy Completed
+Version: 0.2
+Summary: Copies completed torrents to another directory.
+Home-page: http://deluge-torrent.org
+Author: Sam Lai
+Author-email: sam@edgylogic.com
+License: GPLv3
+Description: Copies completed torrents to another directory. Only configurable via web UI.
+Platform: UNKNOWN
